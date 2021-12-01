@@ -10,7 +10,7 @@
 
 #
 scene_file = tde4.getProjectPath()
-if scene_file is not None and scene_file.startswith('/Shares/T/studio/projects'):
+if scene_file is not None and scene_file.startswith('/mnt/studio/mmprjs'):
     
     import os
     
