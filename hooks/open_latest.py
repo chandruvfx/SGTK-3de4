@@ -15,7 +15,7 @@ versions = []
 max_version = 0
 file_full_path_dict = {}
 
-if scene_file is None or not scene_file.startswith('/Shares/T/studio/projects'):
+if scene_file is None or not scene_file.startswith('/mnt/studio/mmprjs'):
     
     tde4.postQuestionRequester(
                 "FWX SGTK Info..",
