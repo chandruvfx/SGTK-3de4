@@ -3,7 +3,7 @@ import sgtk
 import sys
 import os 
 
-___SGTK_PROJECT_PATH__ = '/Shares/T/studio/projects'
+___SGTK_PROJECT_PATH__ = '/mnt/studio/mmprjs'
 
 authenticator = sgtk.authentication.ShotgunAuthenticator()
 user = authenticator.get_user()
