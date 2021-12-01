@@ -28,7 +28,7 @@ abc_destination_path = '/tmp/3de_alembic_import.py'
 
 scene_file = tde4.getProjectPath()
 
-if scene_file is not None and scene_file.startswith('/Shares/T/studio/projects'):
+if scene_file is not None and scene_file.startswith('/mnt/studio/mmprjs'):
     
     if '3de4' not in os.path.dirname(scene_file):
         scene_file_prj_folder_path =os.path.join(
