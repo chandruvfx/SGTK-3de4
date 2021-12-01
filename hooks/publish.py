@@ -24,7 +24,7 @@ reload(engine_config)
 
 scene_file = tde4.getProjectPath()
 if scene_file is None or \
-                not scene_file.startswith('/Shares/T/studio/projects'):
+                not scene_file.startswith('/mnt/studio/mmprjs'):
 
     tde4.postQuestionRequester(
             "FWX SGTK Info..",
