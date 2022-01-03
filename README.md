@@ -1,4 +1,4 @@
-# SGTK <-> 3de4
+# 3dequalizer with Shotgrid Toolkit Integration 
 Integration of SGTK with 3dequalizer...
 
 ## Tool in action  :+1: :point_down: [Youtube Link]
